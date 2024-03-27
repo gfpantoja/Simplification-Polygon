@@ -2,6 +2,12 @@
 
 This is the repository of the article titled "Convex Decomposition and Simplification of a Polygon" developed by German Pantoja-Benavides, Francisco Parrerño Torres, and David Álvarez Martínez.
 
+## Instances
+
+The instances were generated and used by Fernández, J., Cánovas, L., & Pelegrı́n, B. (2000). Algorithms for the decomposition of a polygon into convex polygons. European Journal of Operational Research, 121(2), 330–342. https://doi.org/https://doi.org/10.1016/S0377-2217(99)00033-8
+
+If you use the instances, please give proper credit by citing them.
+
 ## What does this project do?
 
 This is an algorithm that solves two problems:
