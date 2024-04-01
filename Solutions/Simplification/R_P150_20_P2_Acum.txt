@@ -1,0 +1,9 @@
+Duration[s]: 2.4e-08 Porcentaje: 0.264656 TerminoTodo: 1
+Convexos: 1 VerticesConvexos: 6
+0 1 2 3 4 5
+0 39 120.783
+1 259 6
+2 634 52.875
+3 634 480
+4 208.786 480
+5 39 276.651
