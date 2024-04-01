@@ -26,6 +26,7 @@ This project surged as a motivation to decrease the size of mathematical models 
 The simplification algorithm has two parameters the instance (-ins) and the number of threads for multithreading (-nThreads). Some examples are shown as follows:
 
 PiezasBurdas4 -ins P125_6 -nThreads 10
+
 PiezasBurdas4 -ins P50_30 -nThreads 10
 
 The instance must be a .txt file placed within a Folder called "Instances". The results are .txt files placed within a folder called "Solutions".
