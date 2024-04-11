@@ -1,6 +1,6 @@
 # Simplification-Polygon
 
-This repository consists of complementary material from the article titled "Convex Decomposition and Simplification of a Polygon," developed by German Pantoja-Benavides, Francisco Parrerño Torres, and David Álvarez Martínez.
+This repository consists of complementary material from the article titled "Convex Decomposition and Simplification of a Polygon," developed by German Pantoja-Benavides and David Álvarez Martínez.
 
 ## Instances
 
